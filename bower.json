@@ -1,0 +1,29 @@
+{
+  "name": "react-option-colander",
+  "version": "0.0.0",
+  "description": "Option Colander",
+  "main": "dist/react-option-colander.min.js",
+  "homepage": "https://github.com/raulpineda/react-option-colander",
+  "authors": [
+    "Raúl Pineda"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
